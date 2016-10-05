@@ -4,7 +4,7 @@ Listado de Solicitudes de de Condición de Legítimo Usuario de Armas de Fuego c
 
 ##Características
 
--	**Fecha de Publicación:** dd/mm/aaaa
+-	**Fecha de Publicación:** 02/09/2016
 -	**Recurso:** Solicitudes de Condición de Legítimo Usuario de Armas de Fuego
 -	**Tags o Etiquetas:** legítimo usuario, armas, renar, anmac, portación.  
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. 
