@@ -25,7 +25,7 @@ Características
 Recursos Disponibles
 --------------------
 
-##Solicitudes de Cóndición de Legítimo Usuario de Armas de Fuego
+###Solicitudes de Cóndición de Legítimo Usuario de Armas de Fuego
 
 -	**Nombre:** solicitudes-condicion-legitimo-usuario-armasfuego.csv.
 
@@ -35,7 +35,7 @@ Recursos Disponibles
 
 -	**Rango temporal:** -
 
-##Campos del recurso
+###Campos del recurso
 
 -	**tipo_documento (string):** Tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc).
 
@@ -51,5 +51,5 @@ Recursos Disponibles
 
 -	**descripcion (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres).
 
-##Notas
+###Notas
 [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
