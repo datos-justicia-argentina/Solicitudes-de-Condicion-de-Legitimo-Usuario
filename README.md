@@ -52,4 +52,5 @@ Recursos Disponibles
 -	**descripcion (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres).
 
 ###Notas
+
 [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
