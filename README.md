@@ -16,7 +16,7 @@ Características
 
 -	  **Autor:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
 
--	  **Responsable:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
 
 -	  **Grupo:** Sistema Registral
 
