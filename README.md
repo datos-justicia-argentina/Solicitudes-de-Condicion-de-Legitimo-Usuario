@@ -8,8 +8,6 @@ Características
 
 -	**Fecha de Publicación:** 02/09/2016
 
--	**Recurso:** Solicitudes de Condición de Legítimo Usuario de Armas de Fuego
-
 -	**Tags o Etiquetas:** legítimo usuario, armas, RENAR, anmac, portación  
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC 
