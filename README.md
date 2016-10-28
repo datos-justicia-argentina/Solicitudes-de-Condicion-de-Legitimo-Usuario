@@ -31,7 +31,7 @@ Recursos disponibles
 
 -	**Formato:** CSV delimitado por comas
 
--	**Rango temporal:** -
+-	**Rango temporal:** solicitudes vigentes
 
 ### Campos del recurso
 
