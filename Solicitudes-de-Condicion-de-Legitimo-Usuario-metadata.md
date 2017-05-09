@@ -18,7 +18,7 @@ Características
 
 -	**Grupo:** Sistema Registral
 
-- **Frecuencia de Actualización:** Quincenal
+- **Frecuencia de Actualización:** Cada 15 días
 
 Recursos disponibles
 --------------------
