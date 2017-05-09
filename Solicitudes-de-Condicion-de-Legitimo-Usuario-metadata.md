@@ -6,7 +6,7 @@ Listado de Solicitudes de de Condición de Legítimo Usuario de Armas de Fuego c
 Características
 ---------------
 
--	**Fecha de Publicación:** 02/09/2016
+-	**Fecha de Primera Publicación:** 02/09/2016
 
 -	**Tags o Etiquetas:** legítimo usuario, armas, RENAR, anmac, portación  
 
