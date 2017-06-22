@@ -1,7 +1,7 @@
 Solicitudes de Cóndición de Legítimo Usuario de Armas de Fuego
 ==============================================================
 
-Listado de Solicitudes de de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación. [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
+Listado de Solicitudes de de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación.
 
 Características
 ---------------
@@ -29,25 +29,25 @@ Recursos disponibles
 
 -	**Descripción del contenido:** Listado de Condición de Legítimo Usuario de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación
 
--	**Formato:** CSV delimitado por comas
+-	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** solicitudes vigentes
+-	**Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--	**tipo_documento (string):** Tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc)
+-	**tipo_documento (string):** Tipo de documento (DNI, LE, LC, etc)
 
--	**documento (int):** Número de documento (máx 11 caracterers)
+-	**documento (int):** Número de documento
 
--	**apellidos (string):** Apellidos del solicitante (máx 60 caracteres)
+-	**apellidos (string):** Apellidos del solicitante
 
--	**nombres (string):** Nombres del solicitante (máx 40 caracteres)
+-	**nombres (string):** Nombres del solicitante
 
 -	**fecha_publicacion (date):** Fecha de publicación en la página web del ANMaC
 
 -	**fecha_vencimiento (date):** Fecha de despublicación en la página web del ANMaC
 
--	**descripcion (string):** Descripción del tipo de solicitud (máx. 100 caracteres)
+-	**descripcion (string):** Descripción del tipo de solicitud
 
 ### Notas
 
