@@ -27,27 +27,27 @@ Recursos disponibles
 
 -	**Nombre del archivo:** solicitudes-condicion-legitimo-usuario-armasfuego.csv
 
--	**Descripción del contenido:** Listado de Condición de Legítimo Usuario de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación
+-	**Descripción del contenido:** listado de Condición de Legítimo Usuario de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+-	**Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--	**tipo_documento (string):** Tipo de documento (DNI, LE, LC, etc)
+-	**tipo_documento (string):** tipo de documento (DNI, LE, LC, etc)
 
--	**documento (int):** Número de documento
+-	**documento (int):** número de documento
 
--	**apellidos (string):** Apellidos del solicitante
+-	**apellidos (string):** apellidos del solicitante
 
--	**nombres (string):** Nombres del solicitante
+-	**nombres (string):** nombres del solicitante
 
--	**fecha_publicacion (date):** Fecha de publicación en la página web del ANMaC
+-	**fecha_publicacion (date):** fecha de publicación en la página web del ANMaC
 
--	**fecha_vencimiento (date):** Fecha de despublicación en la página web del ANMaC
+-	**fecha_vencimiento (date):** fecha de despublicación en la página web del ANMaC
 
--	**descripcion (string):** Descripción del tipo de solicitud
+-	**descripcion (string):** descripción del tipo de solicitud
 
 ### Notas
 
