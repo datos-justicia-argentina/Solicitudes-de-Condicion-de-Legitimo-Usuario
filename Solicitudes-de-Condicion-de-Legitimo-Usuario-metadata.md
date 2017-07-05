@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Solicitudes de Cóndición de Legítimo Usuario de Armas de Fuego
+### Solicitudes de Cóndición de Legítimo Usuario de Armas de Fuego AAAA-MM quincena
 
 -	**Nombre del archivo:** solicitudes-condicion-legitimo-usuario-armasfuego.csv
 
