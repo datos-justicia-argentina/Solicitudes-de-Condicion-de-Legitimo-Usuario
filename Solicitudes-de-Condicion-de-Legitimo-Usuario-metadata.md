@@ -49,6 +49,8 @@ Recursos disponibles
 
 -	**descripcion (string):** descripción del tipo de solicitud
 
+-	**sexo (string):** sexo del solicitante
+
 ### Notas
 
 [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
