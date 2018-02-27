@@ -27,7 +27,7 @@ Recursos disponibles
 
 -	**Nombre del archivo:** solicitudes-condicion-legitimo-usuario-armas-fuego-AAAA-MM-quincena-9.csv
 
--	**Descripción del contenido:** listado de Condición de Legítimo Usuario de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Quincena 9: Toma valores 1 y 2 (1 para referenciar la primera quincena del mes y 2 para la segunda quincena del mes)
+-	**Descripción del contenido:** se detallan las solicitudes de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Quincena 9: Toma valores 1 y 2 (1 para referenciar la primera quincena del mes y 2 para la segunda quincena del mes)
 
 -	**Formato:** CSV delimitado por comas, codificado en UTF-8
 
