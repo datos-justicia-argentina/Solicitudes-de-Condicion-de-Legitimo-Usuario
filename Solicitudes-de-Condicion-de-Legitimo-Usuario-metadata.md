@@ -3,6 +3,8 @@ Solicitudes de Cóndición de Legítimo Usuario de Armas de Fuego
 
 Listado de Solicitudes de de Condición de Legítimo Usuario de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación.
 
+http://datos.jus.gob.ar/dataset/solicitudes-condicion-legitimo-usuario-armas-fuego
+
 Características
 ---------------
 
