@@ -53,7 +53,7 @@ Recursos disponibles
 
 -	**sexo (string):** sexo del solicitante
 
-### solicitudes de Condición de Legítimo Usuario de Armas de Fuego - AAAA
+### Solicitudes de Condición de Legítimo Usuario de Armas de Fuego - AAAA
 
 -   **Nombre:** solicitudes-condicion-legitimo-usuario-armas-fuego-AAAA.zip
 
