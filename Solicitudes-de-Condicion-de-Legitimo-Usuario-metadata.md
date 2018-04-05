@@ -53,6 +53,14 @@ Recursos disponibles
 
 -	**sexo (string):** sexo del solicitante
 
+### solicitudes de Condición de Legítimo Usuario de Armas de Fuego - AAAA
+
+-   **Nombre:** solicitudes-condicion-legitimo-usuario-armas-fuego-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 ### Notas
 
 [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
