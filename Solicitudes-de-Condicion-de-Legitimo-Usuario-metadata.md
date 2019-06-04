@@ -10,7 +10,7 @@ Características
 
 -	**Fecha de Primera Publicación:** 01/11/2016
 
--	**Tags o Etiquetas:** legítimo usuario, armas, RENAR, anmac, portación  
+-	**Tags o Etiquetas:** legítimo usuario, armas, RENAR, ANMaC, portación  
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC 
 
