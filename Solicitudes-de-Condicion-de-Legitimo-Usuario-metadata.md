@@ -12,11 +12,11 @@ Características
 
 -	**Tags o Etiquetas:** legítimo usuario, armas, RENAR, ANMaC, portación  
 
--	**Organización:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC 
+-	**Organización:** Ministerio de Justicia. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
 
--	**Autor:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
+-	**Autor:** Ministerio de Justicia. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
 
-- **Responsable:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
+- **Responsable:** Ministerio de Justicia. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
 
 -	**Grupo:** Sistema Registral
 
@@ -67,4 +67,4 @@ Recursos disponibles
 
 [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
